@@ -17,6 +17,12 @@
   h2 {
     font-size: 40px;
   }
+  p {
+    font-style: oblique;;
+  }
+  .column {
+    border: 5px solid black;
+  }
 }
 
 
@@ -36,4 +42,5 @@ img {
 
 p {
   width: 200px;
+  font-style: normal;
 }
